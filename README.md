@@ -1,2 +1,2 @@
 # RandomNames
-Adjective-Animal name generator
+Random name generator using adjetive-noun pairs
