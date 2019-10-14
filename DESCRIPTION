@@ -1,0 +1,13 @@
+Package: randomNames
+Title: Random Name Generator
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Katie",
+           family = "Masiello",
+           role = c("aut", "cre"),
+           email = "ka.masiello@gmail.com")
+Description: Random name generator using adjetive-noun pairs.
+License: What license it uses
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
